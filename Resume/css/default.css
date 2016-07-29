@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.resumehead{
+    display: -webkit-flex;
+    display: flex;
+}
+body{
+margin-left:150px;
+margin-right:100px;
+}
+.resumephoto{
+float:left;
+width:50%;
+}
+.line{
+     border: thin solid rgba(0,0,0,0);
+     border-color: #000000;
+     width:  750px;
+ }
+
+.obj1{
+float:left;
+width:50%;
+}
+.dis{
+float:left;
+width:50%;
+}
+.marimg{
+	height:60px;
+   width: 60px;
+	margin-top:20px;
+    border-radius: 30%;
+}
+}
+
